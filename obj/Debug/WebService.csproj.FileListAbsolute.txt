@@ -1,0 +1,10 @@
+C:\Users\pedro.caricari\source\repos\WebService\bin\WebService.dll.config
+C:\Users\pedro.caricari\source\repos\WebService\bin\WebService.dll
+C:\Users\pedro.caricari\source\repos\WebService\bin\WebService.pdb
+C:\Users\pedro.caricari\source\repos\WebService\obj\Debug\WebService.csproj.AssemblyReference.cache
+C:\Users\pedro.caricari\source\repos\WebService\obj\Debug\WebService.csproj.CoreCompileInputs.cache
+C:\Users\pedro.caricari\source\repos\WebService\obj\Debug\WebService.dll
+C:\Users\pedro.caricari\source\repos\WebService\obj\Debug\WebService.pdb
+C:\Users\pedro.caricari\source\repos\WebService\bin\Newtonsoft.Json.dll
+C:\Users\pedro.caricari\source\repos\WebService\bin\Newtonsoft.Json.xml
+C:\Users\pedro.caricari\source\repos\WebService\obj\Debug\WebService.csproj.CopyComplete
