@@ -77,10 +77,11 @@
     <Compile Include="dato\reimprimirFactura\ReimprimirFacturaRes.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="utils\DBConnection.cs" />
-    <Compile Include="utils\RestXmlAdapter\JSON.cs" />
-    <Compile Include="utils\RestXmlAdapter\RestXmlAdapter.cs" />
-    <Compile Include="utils\RestXmlAdapter\RestRequest.cs" />
-    <Compile Include="utils\RestXmlAdapter\RestResponse.cs" />
+    <Compile Include="utils\XmlAdapter\JSON.cs" />
+    <Compile Include="utils\XmlAdapter\RestXmlAdapter.cs" />
+    <Compile Include="utils\XmlAdapter\RestRequest.cs" />
+    <Compile Include="utils\XmlAdapter\RestResponse.cs" />
+    <Compile Include="utils\XmlAdapter\XmlAdapter.cs" />
     <Compile Include="WebService.asmx.cs">
       <DependentUpon>WebService.asmx</DependentUpon>
       <SubType>Component</SubType>
